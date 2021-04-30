@@ -19,7 +19,7 @@ public class GT4500Test {
   public void fireTorpedo_Single_Success(){
     // Arrange
 
-    // Act
+    //3 Act
     boolean result = ship.fireTorpedo(FiringMode.SINGLE);
 
     // Assert
